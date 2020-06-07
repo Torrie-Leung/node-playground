@@ -1,3 +1,3 @@
-let user = require('./app')
+let A = require('./app')
 //node will give u a blank object when no content exported
-console.log(user); // {}
+console.log(A); // {}
